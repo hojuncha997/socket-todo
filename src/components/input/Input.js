@@ -17,3 +17,4 @@ const Input = ({ onChange, onClick, value }) => {
     </form>
   );
 };
+export default Input;
